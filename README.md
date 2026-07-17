@@ -1,2 +1,5 @@
-# cognita-public-media
-Public media hosting for Cognita AI Instagram publishing via GitHub Pages.
+# Cognita Public Media
+
+Public static media used by Cognita AI publishing automations.
+
+Generated/managed by OpenClaw.
